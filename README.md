@@ -81,7 +81,7 @@ mit, apche2, cc0, gpl3.
 # Type 'lgen' in and press 'enter', you should see it say 'no command or licence givin'.
 
 
-<img src="./guide-imgs/lgen-desktop.PNG">
+<img src="./guide-imgs/lgen-desktop2.PNG">
 
 # Type 'cd desktop' so we can crete the licence on the desktop.
 
